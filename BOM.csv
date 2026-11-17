@@ -1,4 +1,14 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-pcb,1,zbotic.in,$20.10,$20.10,https://zbotic.in/pcb-manufacturing/
-5.1 kΩ,2,robu.in,$0.01,$0.02,https://robu.in/product/rc0402fr-075k1l-yageo-smd-chip-resistor/
-Estimated total shipping,1,,,$0.00,
+Part,Description,Qty,Unit Cost,Total Cost,Vendor
+PCB,4-layer PCB,1,$20.10,$20.10,zbotic.in
+SX1262IMLTRT,LoRa RF transceiver,1,$5.52,$5.52,robu.in
+RP2040,Main microcontroller,1,$0.68,$0.68,robu.in
+PE4259,RF antenna path switch,1,$0.60,$0.60,sharvi
+W25Q128JVS,128-Mbit SPI flash memory,1,$2.02,$2.02,sharvi
+AP2112K-3.3,3.3 V voltage regulator,1,$0.22,$0.22,sharvi
+USB-C receptacle (GCT USB4105 family),USB power and USB 2.0 data connection,1,$0.21,$0.21,sharvi
+PTS636Sx25SMTRLFS family tactile switch,BOOTSEL and RESET buttons,4,$0.49,$1.96,robu.in
+Antenna,LoRa RF transmission and reception,1,$0.84,$0.84,robu.in
+32 MHz SMD Crystal,SX1262 RF reference clock,2,$0.20,$0.40,sharvi
+Case,3D printed body,1,$32.00,$32.00,printlegion
+Tax & shipping,For the whole order,-,-,$0.00,-
+Grand Total,,,,$64.55,
